@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CarWith 增强 · MG4</string>
+    <string name="app_description">修复 MG4/ICCOA 投屏卡片 + 地图 DPI 放大</string>
+    <string name="author">酷安@蘑菇蘑菇蛋蛋</string>
+    <string name="module_version">2.4.1</string>
+</resources>

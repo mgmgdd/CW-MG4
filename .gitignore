@@ -1,0 +1,33 @@
+# ===== 操作系统 / IDE =====
+.DS_Store
+*.iml
+.idea/
+.cxx
+.externalNativeBuild
+captures/
+
+# ===== Gradle / 构建产物 =====
+.gradle/
+build/
+.kotlin/
+local.properties
+
+# ===== Operit 本地工作区（绝不上传） =====
+.operit/
+.backup/
+
+# ===== 签名与密钥（绝不上传） =====
+*.keystore
+*.jks
+*.key
+*.p12
+keystore.properties
+signing.properties
+
+# ===== proot 本地环境专用（云端用官方工具） =====
+setup_android_env.sh
+tools/aapt2/
+
+# ===== APK =====
+*.apk
+*.aab
